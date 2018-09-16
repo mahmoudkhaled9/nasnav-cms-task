@@ -1,6 +1,13 @@
-# Projectangualr1
+# nasnav
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+
+# How to use :
+
+1- open command shell window<br>
+2- run  <strong> "npm install"</strong><br>
+3- run <strong> "ng serve --open"</strong><br>
+
 
 ## Development server
 
