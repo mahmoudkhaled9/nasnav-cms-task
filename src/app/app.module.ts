@@ -16,6 +16,10 @@ const appRoutes:Routes = [
     component:HomeComponent,
   },
   {
+    path:'',
+    component:HomeComponent,
+  },
+  {
     path:'business',
     component:BusinessComponent,
   },
